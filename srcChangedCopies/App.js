@@ -44,12 +44,12 @@ function App() {
 //     </JsonContext.Provider>
 //   );
 // }
-// function ContextWrapper(val) {
-//   return (
-//     <JsonContext.Provider value={{ ...val }}>
-//       <Outlet />
-//     </JsonContext.Provider>
-//   );
-// }
+function ContextWrapper(val) {
+  return (
+    <JsonContext.Provider value={{ ...val }}>
+      <Outlet />
+    </JsonContext.Provider>
+  );
+}
 
 export default App;

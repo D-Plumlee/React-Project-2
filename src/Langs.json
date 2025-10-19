@@ -1,0 +1,28 @@
+{
+  "Languages": [
+    {
+      "name": "Javascript",
+      "description": "Javascript is a multi-paradigm dynamic language used for web development. Its syntax is based on the Java and C languages. It supports object-oriented programming with object prototypes, and it can be used for front-end or back-end development by using different libraries.",
+      "information": "My first experience using Javascript was through Wilmington. I had not learned much web development techniques before, so Javascript was interesting.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png"
+    },
+    {
+      "name": "Java",
+      "description": "Java is an object-oriented programming language owned by Oracle. It was developed in 1995 by James Gosling.",
+      "information": "Java was the first language I ever learned. When I learn new languages, I compare the basics in my head to how it works with Java.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+    },
+    {
+      "name": "C#",
+      "description": "C# is an object-oriented programming language created by Microsoft that runs on the .Net Framework. It comes from the C family, and was first released in 2002.",
+      "information": "I started learning C# on my own without a course because I had a textbook. It was interesting figuring out projects and solutions, which Java did not make me use.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/165px-C_Sharp_Logo_2023.svg.png"
+    },
+    {
+      "name": "Python",
+      "description": "Python is an easy to learn programming language with a simple approach to object-oriented programming. It was released in 1991.",
+      "information": "Python was a really interesting language. It was the second language I learned. At first I did not like having no semicolons and some of the other syntax, but the simplicity of Python is nice.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png"
+    }
+  ]
+}
